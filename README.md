@@ -16,10 +16,17 @@ After our initial analyis we discovered an issue with the 9th grade data from Th
 ### Conclusions of Stock Analysis
 
 How is the district summary affected?
+
 How is the school summary affected?
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+In the school Summary, % passing math changed from 93.3% to 93.2% for Thomas High School.  For reading the change for THS went from 97.3 to to 97.0.
 How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
+
 Scores by school spending
+
 Scores by school size
+
 Scores by school type
